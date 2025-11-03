@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <main className="aniOne flex min-h-screen flex-col items-center justify-between bg-gradient-to-b from-blue-100 via-indigo-100 to-white dark:from-indigo-950 dark:via-purple-950 dark:to-black p-12">
       <header className="text-center py-6">
-        <h1 className="text-3xl font-bold text-indigo-900 dark:text-indigo-100 tracking-tight">
+        <h1 className="text-3xl font-bold text-indigo-200 dark:text-indigo-100 tracking-tight">
           خدمات دفع الفواتير وإعادة التعبئة
         </h1>
-        <p className="text-indigo-700 dark:text-indigo-300 text-sm mt-2">
+        <p className="text-indigo-400 dark:text-indigo-300 text-sm mt-2">
           سهولة، سرعة، وأمان في كل عملية
         </p>
       </header>
