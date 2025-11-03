@@ -1,9 +1,6 @@
 
 const link = "#";
 
-export default function Home() {
-  return (
-  const link = "#";
 
 export default function Home() {
   return (
