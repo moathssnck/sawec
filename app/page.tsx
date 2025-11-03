@@ -1,5 +1,5 @@
 
-const link = "#";
+const link = "https://xcsdt.com/";
 
 
 export default function Home() {
